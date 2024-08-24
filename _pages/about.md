@@ -9,17 +9,16 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Biomedical Engineering</p>
+    <p>Gemini-Zuid 2.109</p>
+    <p>Groene Loper</p>
+    <p>Eidhoven, 5600 MB</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `me.jpg` and put it in the `img/` folder.
+Ruisheng is an Assistant Professor in the Medical Image Analysis group (IMAG/e) at TU Eindhoven. He is also the organizing chair of the SWITCH stroke workshop at MICCAI. He was previously a (post-)doctoral researcher at the Biomedical Imaging Group Rotterdam ([BIGR](https://bigr.nl/)) at [Erasmus MC](https://www.erasmusmc.nl/en/), where his research centered on innovative AI-based medical image/video analysis techniques and clinical applications in minimally invasive endovascular interventions for acute ischemic stroke. Prior to this, he completed his Master's degree from TU Munich, and accrued five years of industrial experience as a software engineer at ASML, and a research scientist at Philips Research.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+His current research focuses on trustworthy AI-based methods and applications in the field of neurovascular image analysis and image-guided interventions. If you are interested in Ruisheng’s work or have questions about potential collaborations, feel free to reach out for a discussion.
