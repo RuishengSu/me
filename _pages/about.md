@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.tue.nl/en/research/researchers/ruisheng-su'>Eindhoven University of Technology (TU/e)</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Eindhoven University of Technology (TU/e)</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
