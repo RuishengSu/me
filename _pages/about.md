@@ -2,20 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Eindhoven University of Technology (TU/e)</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Department of Biomedical Engineering, Eindhoven University of Technology (TU/e)</a>. Gemini-Zuid 2.109, Groene Loper, Eidhoven, 5600 MB.
 
 profile:
   align: left
   image: me.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Department of Biomedical Engineering</p>
-    <p>Gemini-Zuid 2.109</p>
-    <p>Groene Loper</p>
-    <p>Eidhoven, 5600 MB</p>
+  # more_info: >
+  #   <p>Department of Biomedical Engineering</p>
+  #   <p>Gemini-Zuid 2.109</p>
+  #   <p>Groene Loper</p>
+  #   <p>Eidhoven, 5600 MB</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
