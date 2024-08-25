@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Below are selected publications. You could find my full pulications list on my Google Scholar profile.
+description: Below are selected publications. You could find the full pulication list on my Google Scholar profile.
 nav: true
 nav_order: 2
 ---
