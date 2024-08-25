@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: You can find a full up-to-date list of my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=1QhhFl8AAAAJ&hl=en).
+description: You can find a full up-to-date list of my publications on <a href="https://scholar.google.com/citations?user=1QhhFl8AAAAJ&hl=en">my Google Scholar profile</a>.
 nav: true
 nav_order: 2
 ---
@@ -13,7 +13,7 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<div class="publications">
+<div class="Selected publications">
 
 {% bibliography %}
 
