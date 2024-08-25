@@ -5,9 +5,9 @@ permalink: /
 subtitle: <a href='#'>Eindhoven University of Technology (TU/e)</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: me.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Department of Biomedical Engineering</p>
     <p>Gemini-Zuid 2.109</p>
