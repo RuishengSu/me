@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Biomedical Engineering, Eindhoven University of Technology (TU/e)</a>. Gemini-Zuid 2.109, Groene Loper, Eidhoven, 5600 MB.
+subtitle: <a href='#'>Assistant professor, Medical Image Analysis group (IMG/e), Department of Biomedical Engineering, Eindhoven University of Technology (TU/e)</a>
 
 profile:
   align: left
