@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Assistant professor, Medical Image Analysis group (IMG/e), Department of Biomedical Engineering, Eindhoven University of Technology (TU/e)</a>
+# subtitle: <a href='#'>Assistant professor, Medical Image Analysis group (IMAG/e), Department of Biomedical Engineering, Eindhoven University of Technology (TU/e)</a>
 
 profile:
   align: left
