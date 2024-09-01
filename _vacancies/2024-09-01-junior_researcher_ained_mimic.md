@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Open] Junior Researcher
+title: Junior Researcher
 date: 2024-09-01
 description: "MIMIC: AI-based Identification of Stroke Mimics by Advanced Neuroimaging"
 tags: junior_researcher
