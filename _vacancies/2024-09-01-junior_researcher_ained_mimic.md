@@ -34,3 +34,7 @@ Approximately one in four individuals is affected by stroke, a major cause of de
 #### Keywords 
 deep learning, python, image processing, interpretability, image classification, weakly supervised learning, computer vision, statistical analysis, scientific writing, etc.
 
+#### Requirements
+- Good knowledge in machine/deep learning and (medical) image processing.
+- Hand-on experience with python programming (e.gl, scikit-learn, PyTorch) and development of machine/deep learning models.
+
