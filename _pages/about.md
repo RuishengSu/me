@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='#'>Assistant professor, Medical Image Analysis group (IMAG/e), Department of Biomedical Engineering, Eindhoven University of Technology (TU/e)</a>
 
