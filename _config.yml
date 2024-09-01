@@ -195,6 +195,16 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
+  vacancies:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:title/
+  msc_projects:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:title/
   projects:
     output: true
     permalink: /:collection/:title/
