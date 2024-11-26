@@ -8,10 +8,10 @@ profile:
   align: left
   image: me.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    # <p>Department of Biomedical Engineering</p>
-    # <p>Gemini-Zuid 2.109</p>
-    # <p>Building 15, Groene Loper 5, 5612 AE Eindhoven</p>
+  # more_info: >
+  #   <p>Department of Biomedical Engineering</p>
+  #   <p>Gemini-Zuid 2.109</p>
+  #   <p>Building 15, Groene Loper 5, 5612 AE Eindhoven</p>
 
 news: true # includes a list of news items
 latest_posts: false
